@@ -1,14 +1,14 @@
 node-osc
 ========
 
-system for local wireless communication via wifi through web browser
+system for local wireless communication via wifi through web browser  
 
-Run node server locally via MAMP to split out OSC from the network
+Run node server locally via MAMP to split out OSC from the network  
 
-(MIGHT NOT REQUIRED)
+(MIGHT NOT REQUIRED)  
 
-I'm not sure if it needed or not but we have Macports install
-http://www.macports.org/
+I'm not sure if it needed or not but we have Macports install  
+http://www.macports.org/  
 then
 
 ```
@@ -22,7 +22,8 @@ npm install mysql
 
 
 PRE-REQUISITES: 
-node.js https://github.com/joyent/node
+-----
+node.js https://github.com/joyent/node  
 node-osc https://github.com/TheAlphaNerd/node-osc
 ```
 sudo npm install node-osc
@@ -46,3 +47,4 @@ node app
 
 
 all credit goes to Apon Palanuwech
+special thanks to Ragnarok Online
